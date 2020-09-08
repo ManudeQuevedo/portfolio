@@ -9,8 +9,6 @@ export default function ArticleList() {
             <div className="articles section" >
                 <h1 className={style.header}>Articles</h1>
                 <div className={style.container}>
-
-
                 </div>
             </div>
         </div>
